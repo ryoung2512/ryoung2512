@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+
+Welcome to my profile, my name is Rhys. I currently work at Shopify as a Senior Software Developer. Below you can find some moreinformation about my work.
+
 
 ## Languages
 
